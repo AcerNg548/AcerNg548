@@ -1,4 +1,6 @@
 ### Hi 👋, I'm Paul Ogbonna
+![image](https://user-images.githubusercontent.com/105017838/212877688-87092cfb-6648-45f6-9e3d-5678b4489c99.png)
+
 
 <!--
 **AcerNg548/AcerNg548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
