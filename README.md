@@ -33,4 +33,6 @@ I'm open to collaborations, discussions, resources and projects relating to Soft
 <br>
 -HTML CSS.
 
-## Socials and 📫 How to reach me:  
+## Socials and 📫 How to reach me: 
+</a> <a href="https://wa.me/+2349069299336" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/40-404856_transparent-whatsapp-icon-transparent-png-circle-logo-whatsapp.png" alt="python" width="40" height="40"/> </a> 
+
