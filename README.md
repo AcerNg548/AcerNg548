@@ -34,5 +34,5 @@ I'm open to collaborations, discussions, resources and projects relating to Soft
 -HTML CSS.
 
 ## Socials and 📫 How to reach me: 
-</a> <a href="https://wa.me/+2349069299336" target="_blank" rel="noreferrer"> <img src="" alt="Whatsapp" width="40" height="40"/> </a> 
+</a> <a href="https://wa.me/+2349069299336" target="_blank" rel="noreferrer"> <img src="https://www.freeiconspng.com/uploads/icono-whatsapp-red-social-de-flat-gradient-social-icons-22.png" alt="Whatsapp" width="40" height="40"/> </a> 
 
